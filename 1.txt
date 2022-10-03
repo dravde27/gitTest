@@ -6,9 +6,7 @@ Edik5Best
 Edik6Best
 Edik7Best
 Edik8Best
-<<<<<<< HEAD
 Edik9Best
 Edik10Best
-=======
 Edik9Best
->>>>>>> 390581db2090fb7005d27aac5e2bbe7d3b921e33
+
