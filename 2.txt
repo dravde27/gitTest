@@ -1,2 +1,0 @@
-EdTest1
-EdTest2
