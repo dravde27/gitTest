@@ -1,2 +1,2 @@
-public class Ed {
+class Ed22 {
 }
