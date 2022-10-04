@@ -1,2 +1,2 @@
-public class EdFile {
+class EdFile {
 }
